@@ -1,0 +1,2 @@
+PS C:\Users\TECHNORBIT\OneDrive\Desktop\Bank_Buddy\chatbotApp\backend> venv\Scripts\activate
+(venv) PS C:\Users\TECHNORBIT\OneDrive\Desktop\Bank_Buddy\chatbotApp\backend> python app.py
